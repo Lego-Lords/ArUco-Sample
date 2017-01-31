@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\aruco\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 42,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\aruco\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 42,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 189,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\aruco\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 189,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 69,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\aruco\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 69,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 38,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\aruco\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 38,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 61,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\aruco\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 61,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 53,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\aruco\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 355,
+                        "endColumn": 53,
+                        "endOffset": 404
+                    }
+                }
+            }
+        ]
+    }
+]

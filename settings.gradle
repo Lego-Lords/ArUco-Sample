@@ -1,0 +1,4 @@
+include ':min3drotation'
+include ':aruco'
+include ':arucoSamples'
+include ':openCV241'

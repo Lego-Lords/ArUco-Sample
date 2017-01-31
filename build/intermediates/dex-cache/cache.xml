@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\exploded-aar\AndroidSampleProject1\aruco\unspecified\jars\libs\commons-lang-2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3c4130c4e86bebe1a59fe87ae4337670680288d7">
+        <dex dex="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\transforms\dex\debug\folders\1000\8\commons-lang-2.4_27a6e691bda5413c3b0a698139dab670ae572614\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4e697e4f061261c184107a33bcb2b131c619fe20">
+        <dex dex="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b6feee6ef08aefa72131b39db2a41fc7984c5475\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="54960f3d0862754501ba29639fdcf4a2af29b702">
+        <dex dex="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_282246a030014584573891f11b31bfe8c561abe4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\exploded-aar\AndroidSampleProject1\aruco\unspecified\jars\libs\commons-collections-3.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f6aa55ebaf2f15010fe2812c303732e40ec444bb">
+        <dex dex="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\transforms\dex\debug\folders\1000\8\commons-collections-3.2.1_75757dc0207fd6cdd004f2bc8db969e01b5ed252\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\exploded-aar\AndroidSampleProject1\aruco\unspecified\jars\libs\commons-configuration-1.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="54187a2928d93f8c13fe4a42730816b6b5d62e0c">
+        <dex dex="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\transforms\dex\debug\folders\1000\8\commons-configuration-1.5_d0c4891e0530d89873315578ddd167dc61c699e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\exploded-aar\AndroidSampleProject1\aruco\unspecified\jars\libs\commons-logging-1.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ceeab3dea2da38ee1ae9fb95cb8e48223f23cd1">
+        <dex dex="C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\transforms\dex\debug\folders\1000\8\commons-logging-1.1.1_7df2bc0ada600e40b88896b17fec98326b32e9ef\classes.dex" />
+    </item>
+
+</items>

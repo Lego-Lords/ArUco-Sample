@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:5:31-71
+uses-sdk
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:7:5-8:43
+MERGED from [AndroidSampleProject1:aruco:unspecified] C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\exploded-aar\AndroidSampleProject1\aruco\unspecified\AndroidManifest.xml:7:5-9:40
+MERGED from [AndroidSampleProject1:min3drotation:unspecified] C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\exploded-aar\AndroidSampleProject1\min3drotation\unspecified\AndroidManifest.xml:7:5-9:40
+MERGED from [AndroidSampleProject1:openCV241:unspecified] C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\build\intermediates\exploded-aar\AndroidSampleProject1\openCV241\unspecified\AndroidManifest.xml:7:5-9:40
+	android:targetSdkVersion
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:8:12-40
+		INJECTED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:12:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:13:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:14:19-67
+supports-screens
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:16:5-20:42
+	android:largeScreens
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:19:14-41
+	android:smallScreens
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:17:14-41
+	android:normalScreens
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:18:14-42
+	android:resizeable
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:16:23-48
+	android:anyDensity
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:20:14-39
+application
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:21:5-64:19
+	android:label
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:22:46-78
+	android:icon
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:22:9-45
+activity#es.ava.aruco.sample.MenuActivity
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:23:9-30:20
+	android:label
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:28:27-74
+activity#es.ava.aruco.sample.BoardDetectActivity
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:31:9-36:20
+	android:screenOrientation
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:34:13-50
+	android:label
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:35:13-63
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:32:13-48
+activity#es.ava.aruco.sample.Min3dTestActivity
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:37:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:40:13-50
+	android:label
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:39:13-45
+	android:configChanges
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:41:13-63
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:38:13-46
+activity#es.ava.aruco.sample.MostSimpleActivity
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:43:9-48:20
+	android:screenOrientation
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:46:13-50
+	android:label
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:45:13-45
+	android:configChanges
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:47:13-63
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:44:13-47
+activity#es.ava.aruco.sample.SingleMarkerOBJActivity
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:49:9-54:20
+	android:screenOrientation
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:52:13-50
+	android:label
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:51:13-45
+	android:configChanges
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:53:13-63
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:50:13-52
+activity#es.ava.aruco.sample.ChooseModelActivity
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:55:9-60:20
+	android:screenOrientation
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:58:13-50
+	android:label
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:57:13-45
+	android:configChanges
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:59:13-63
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:56:13-48
+activity#es.ava.aruco.sample.NewMarkerActivity
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:61:9-87
+	android:label
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:61:53-85
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:61:19-52
+activity#es.ava.aruco.android.CameraCalibrationActivity
+ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:63:9-83
+	android:name
+		ADDED from C:\Users\Jolo Simeon\Projects\Argo\AndroidSampleProject1\arucoSamples\src\main\AndroidManifest.xml:63:19-80

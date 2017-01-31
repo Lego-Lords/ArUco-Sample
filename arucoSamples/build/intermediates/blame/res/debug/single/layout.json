@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\build\\intermediates\\res\\merged\\debug\\layout\\calibrate.xml",
+        "source": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\build\\intermediates\\exploded-aar\\AndroidSampleProject1\\aruco\\unspecified\\res\\layout\\calibrate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\build\\intermediates\\res\\merged\\debug\\layout\\new_marker.xml",
+        "source": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\src\\main\\res\\layout\\new_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\build\\intermediates\\res\\merged\\debug\\layout\\menu_layout.xml",
+        "source": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\src\\main\\res\\layout\\menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\src\\main\\res\\layout\\main.xml"
+    }
+]

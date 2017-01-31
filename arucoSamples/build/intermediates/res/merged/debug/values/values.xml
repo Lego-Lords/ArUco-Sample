@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CameraBridgeViewBase"><attr format="boolean" name="show_fps"/><attr format="integer" name="camera_id"><enum name="any" value="-1"/><enum name="back" value="99"/><enum name="front" value="98"/></attr></declare-styleable>
+    <string name="app_name">Aruco Samples</string>
+    <string name="calibration_instructions">You will get much more accurate results once you calibrate your camera. To do so, you must first take several pictures from the pattern.</string>
+    <string name="calibration_photo_description">image taken</string>
+    <string name="create">Create</string>
+    <string name="done">Done!</string>
+    <string name="hello">Hello World, ArucoActivity!</string>
+    <string name="id">ID:</string>
+    <string name="menuTitle">Menu</string>
+    <string name="save">Save</string>
+    <string name="take_photo">Take a picture</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidSampleProject1.iml" filepath="$PROJECT_DIR$/AndroidSampleProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aruco/aruco.iml" filepath="$PROJECT_DIR$/aruco/aruco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arucoSamples/arucoSamples.iml" filepath="$PROJECT_DIR$/arucoSamples/arucoSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/min3drotation/min3drotation.iml" filepath="$PROJECT_DIR$/min3drotation/min3drotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCV241/openCV241.iml" filepath="$PROJECT_DIR$/openCV241/openCV241.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Jolo Simeon\\Projects\\Argo\\AndroidSampleProject1\\arucoSamples\\build\\intermediates\\exploded-aar\\AndroidSampleProject1\\aruco\\unspecified\\res\\drawable-ldpi-v4\\icon.png"
+    }
+]
